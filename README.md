@@ -48,7 +48,6 @@
 
 </div>
 
-- 🌸 Student yang belajar ngoding lewat bikin proyek langsung
 - 🛠 Mulai dari **PHP native** dan **Java**, sekarang naik level ke **TypeScript** dan **Laravel**
 - 🎮 Belajar sambil *grinding* — satu commit satu level
 
